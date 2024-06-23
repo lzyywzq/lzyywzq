@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 * Design: Illustrator, Photoshop
 * Writing: Latex
 * Miscellaneous: Flowjo ImageJ SlideViewer Cytoscape Pymol Graphpad SPSS ChemDraw
+* Wet laboratory techniques:cell culture, flow cytometry, western blot, qRT-PCR, cell proliferation/viability/migration/invasion assays, Animal modeling and efficacy experiments
 
 <!-- 
 Look me up/connect with me: 
