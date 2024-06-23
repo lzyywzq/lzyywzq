@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 * Miscellaneous: Flowjo ImageJ SlideViewer Cytoscape Pymol Graphpad SPSS ChemDraw
 * Wet laboratory techniques:cell culture, flow cytometry, western blot, qRT-PCR, cell proliferation/viability/migration/invasion assays, Animal modeling and efficacy experiments
 
-<!-- 
 Look me up/connect with me: 
-Google Scholar, ResearchGate, LinkedIn, Twitter, Instagram, Email
--->
+[Google Scholar](https://scholar.google.co.uk/citations?hl=zh-CN&user=tn9OFmcAAAAJ),
+[ResearchGate](https://www.researchgate.net/profile/Ziyuan-Liu-17)
