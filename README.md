@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 *About me:* 🙋‍♂️
 
-* My name is Yufan Yang (Ethan Yang).
-* I am currently a Master's student at Southern Medical University, with a primary focus on bioinformatics research related to biomedical studies. My main areas of interest are oncology and immunology.
-* I am deeply interested in investigating biomedical-related issues through bioinformatics, and excel at utilizing a combination of wet and dry lab techniques to explore scientific questions.
-* I am highly skilled in multi-omics research, particularly in single-cell multi-omics, which includes single-cell spatial transcriptomics and single-cell chromatin accessibility studies.
+* My name is Ziyuan Liu (Estrella Liu).
+* I am currently a Master's student at Southern Medical University in China, with a primary focus on **oncology and immunology**, and I prefer to seek PhD oppoutunity after my Master study.
+* I have a keen interest in harnessing multi-omics analysis in conjunction with wet lab experiments to investigate and elucidate the tumor immune microenvironment. My expertise encompasses **single-cell analysis, spatial transcriptomics, flow cytometry, cell culture, and immunofluorescence, among other dry and wet lab methodologies**.
   
 *Skill set:* ⌨ 🔬
 
 * Programming language: R, Python, BASH, ZSH
-* Web development: R Shiny
 * Project management: Markdown, Git, GitHub, 
 * Design: Illustrator, Photoshop
 * Writing: Latex
