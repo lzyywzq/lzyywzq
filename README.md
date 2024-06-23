@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 *About me:* 🙋‍♂️
 
 * My name is Ziyuan Liu (Estrella Liu).
-* I am currently a Master's student at Southern Medical University in China, with a primary focus on **oncology and immunology**, and I prefer to seek PhD oppoutunity after my Master study.
+* I am currently a Master's student at Southern Medical University in China, with a primary focus on **oncology and immunology**, and I prefer to **seek PhD oppoutunity** after my Master study in June 2025.
 * I have a keen interest in harnessing multi-omics analysis in conjunction with wet lab experiments to investigate and elucidate the tumor immune microenvironment. My expertise encompasses **single-cell analysis, spatial transcriptomics, flow cytometry, cell culture, and immunofluorescence, among other dry and wet lab methodologies**.
   
 *Skill set:* ⌨ 🔬
